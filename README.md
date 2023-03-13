@@ -7,7 +7,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="Images/pexels-arist-creathrive-2253573.jpg" alt="Profile Picture"></td>
+            <td><img src="https://i.pinimg.com/originals/40/e4/99/40e49965f9b5136e621721d9d4495520.jpg" alt="Profile Picture"></td>
             <td><h1>Mohammad Suhail</h1>
                 <p><em>Student of <strong>Jadavpur University</strong>.</em></p>
                 <p>Department of <strong>Computer Science and Engineering</strong>.</p> 
